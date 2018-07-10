@@ -1,0 +1,6 @@
+
+*.pyc
+
+VENV/*
+
+keychain.json
